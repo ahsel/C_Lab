@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include "cqueue.h"
+#include "cqueue.h"  /* Очередь */
 
 #define buff_size 1024
 
